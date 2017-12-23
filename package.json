@@ -4,11 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "bin": {
-      "create-react-app-essentials": "index.js"
-    }
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-react-app-essentials": "index.js"
   },
   "author": "Jakub Pomykala",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "shelljs": "latest",
+    "colors": "latest"
+  }
 }
