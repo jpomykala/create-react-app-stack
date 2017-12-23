@@ -1,0 +1,1 @@
+module.exports=`export const MAIN_PAGE = "/";`;

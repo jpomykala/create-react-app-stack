@@ -9,7 +9,10 @@
   "author": "Jakub Pomykala",
   "license": "ISC",
   "dependencies": {
-    "shelljs": "latest",
-    "colors": "latest"
+    "shelljs": "latest"
+  },
+  "repository": "https://github.com/jpomykala/create-react-stack",
+  "devDependencies": {
+    "asciify": "^1.3.5"
   }
 }

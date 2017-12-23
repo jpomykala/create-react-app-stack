@@ -16,7 +16,7 @@ const additionalPackages = [
  ];
   ```
 
-This array can be found in `index.js` on top.
+This array can be found in `axios.js` on top.
 
 ```
 // install generator
