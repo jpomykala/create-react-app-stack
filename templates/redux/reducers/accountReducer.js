@@ -1,4 +1,4 @@
-module.exports=`import { FETCH_SUCCESS } from "../actionTypes/index";
+module.exports=`import { FETCH_SUCCESS } from "../actionTypes/types.js";
 
 const initialState = {
   account: {},

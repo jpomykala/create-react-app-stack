@@ -1,7 +1,6 @@
-module.exports = `
-import React from "react";
-import logo from './logo.svg';
-import './App.css';
+module.exports = `import React from "react";
+import logo from '../logo.svg';
+import '../App.css';
 
 class MainPage extends React.Component {
 

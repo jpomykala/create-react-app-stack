@@ -1,5 +1,5 @@
 module.exports = `import axios from "axios";
-import packageJson from "../package.json";
+import packageJson from "../../package.json";
 
 export const LOCAL_STORAGE_TOKEN_KEY = packageJson.name + "_token";
 export const API_URL = "http://localhost:8080";

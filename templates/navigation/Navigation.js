@@ -1,6 +1,6 @@
 module.exports = `import React, {Component} from "react";
 import {Link} from "react-router-dom";
-import packageJson from "../package.json";
+import packageJson from "../../package.json";
 import { MAIN_PAGE } from "../pages/Routes";
 
 class Navigation extends Component {

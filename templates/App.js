@@ -3,7 +3,7 @@ import {BrowserRouter as Router, Route} from 'react-router-dom'
 import { Provider } from "react-redux";
 import thunk from "redux-thunk";
 import { applyMiddleware, createStore } from "redux";
-import reducer from "./redux/reducers/index";
+import reducer from "./redux/reducers/reducer";
 import Footer from "./navigation/Footer";
 import Navigation from "./navigation/Navigation";
 import { MAIN_PAGE } from "./pages/Routes";

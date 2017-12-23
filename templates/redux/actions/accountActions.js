@@ -1,5 +1,5 @@
-module.exports=`import Axios from "../../api";
-import { FETCH_SUCCESS } from "../actionTypes/index";
+module.exports=`import Axios from "../../api/axios";
+import { FETCH_SUCCESS } from "../actionTypes/types";
 
 export function fetchSuccess(account) {
   return { type: FETCH_SUCCESS, account };
