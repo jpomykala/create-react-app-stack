@@ -1,10 +1,10 @@
 {
-  "name": "create-react-app-essentials",
-  "version": "1.0.1",
+  "name": "create-react-stack",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "bin": {
-    "create-react-app-essentials": "index.js"
+    "create-react-stack": "index.js"
   },
   "author": "Jakub Pomykala",
   "license": "ISC",

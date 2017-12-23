@@ -1,4 +1,4 @@
-## create-react-app-essentials
+## create-react-stack
 
 Uses create-react-app without ejecting and simply installs my common stack for now.
 ```
@@ -20,10 +20,10 @@ This array can be found in `index.js` on top.
 
 ```
 // install generator
-npm install -g create-react-app-essentials
+npm install -g create-react-stack
 
 // create project
-create-react-app-essentials <app-name>
+create-react-stack <app-name>
 ```
 
 ![GitHub Logo](http://i0.kym-cdn.com/entries/icons/facebook/000/005/600/its-something.jpg)
